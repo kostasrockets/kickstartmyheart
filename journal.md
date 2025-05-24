@@ -21,6 +21,56 @@ With these requirements set, I started the CAD by making a master sketch of what
 
 From that, I designed the casing. A casing for a rocket motor is the pressure vessel, it is meant to hold all of the pressure (700 psi is my MEOP, I hydrostatic tested a similar casing to 1500 psi) 
 
-![image](https://github.com/user-attachments/assets/bd6f9877-c4cf-46d9-9508-803272104d6a)
+![03 - Casing(2)](https://github.com/user-attachments/assets/188f017e-1392-4817-90e0-35d20af51a2f)
 
-This is a bolted casing, a type of casing that has been used by professional and amateur rocketeers for a very long time. There are bolts (316 set screws in this case) which screw into bolt rings which are intended to hold the pressure. I designed this casing using some [some pretty simple math](https://static1.squarespace.com/static/60d8d9b060e90a67c5c69db4/t/62997fbfa1150834ce0a9556/1654226881895/How+to+Design+Pressure+Vessels%2C+Propellant+Tanks%2C+and+Rocket+Motor+Casings.pdf) to calculate my safety factor for bolt shear. (I honestly just realized how simple this math is, used to treat it like black magic). The casing is calculated to fail at 2000psi, and yield at 1500psi, but I really don't want to hit anywhere near that pressure, because it's made from 6063 T832, and my friend thinks that the case will lose it's temper after a short burn, meaning that it will blow up. 
+
+This is a bolted casing, a type of casing that has been used by professional and amateur rocketeers for a very long time. There are bolts (316 set screws in this case) which screw into bolt rings which are intended to hold the pressure. It has a phenolic liner which prevents the propellant from melting the casing itself (very useful to do this, as it helps your rocket not blow up). I designed this casing using some [some pretty simple math](https://static1.squarespace.com/static/60d8d9b060e90a67c5c69db4/t/62997fbfa1150834ce0a9556/1654226881895/How+to+Design+Pressure+Vessels%2C+Propellant+Tanks%2C+and+Rocket+Motor+Casings.pdf) to calculate my safety factor for bolt shear. (I honestly just realized how simple this math is, used to treat it like black magic). The casing is calculated to fail at 2000psi, and yield at 1500psi, but I really don't want to hit anywhere near that pressure, because it's made from 6063 T832, and my friend thinks that the case will lose it's temper after a short burn, meaning that it will blow up. This rocket is supposed to prove him wrong (I hope...)
+
+Next, I designed the avionics bay:
+
+![01 - 02 - Avionics   Nosecone(6)](https://github.com/user-attachments/assets/45d15fdf-dce4-42e6-bbf6-3f1e8f5ce66d)
+
+I use all COTS computers in here. A Featherweight GPS, an Altus Metrum Easymini, a Featherweight Blue Jay, as well as a RDF (radio direction finding) beacon for backup tracking if all else fails. The avionics bay structurally is just a 3d printed part. In the past I have had 3dp parts survive in the tip of a nosecone, and so I'm not worried about it. I've also used G10 to make an avionics bay, but it's expensive. 
+
+Afterwards, I designed the fins: 
+
+![00A - Main(6)](https://github.com/user-attachments/assets/750db845-f4cf-44e4-95e0-cdf02a9ea054)
+
+This fin concept is very weird. I want to etch aluminum using a 1 mol sodium something or other solution. It's kinda hard and grueling to do. 
+
+# Day 2: Simulations & CAD Updates
+
+I started by immediatley getting rid of the weird aluminum fins concept, and replacing it with a traditional 'fin can', where I simply bond some carbon fiber fins onto a tube that I lay up using the casing as a mandrel. I have a little metal lip in front to prevent the front of the tube from getting delaminated/rolled over, because that has happened on similar flights by others in the past, which risks destroying the rocket, or even worse, losing performance. 
+
+![05 - Fin Can](https://github.com/user-attachments/assets/fbce54e4-2ba5-44e1-991a-e2d0de6f2f52)
+
+I ran some simulations, for the motor & rocket itself:
+
+![image](https://github.com/user-attachments/assets/411bda44-b619-40db-916e-c96b11028655)
+![image](https://github.com/user-attachments/assets/3f499533-810d-4cc9-a0dc-0f53188a4b87)
+
+I ran these simulations in both openrocket and RASaero. They agreed pretty closely. I made sure I had a decent static stability margin during my entire flight regime, ensured my CNalpha was above 10 for the entire flight regime, but did NOT check damping ratio, because it requires one math equation in a spreadsheet and I was lazy. These are also rules of thumb which I follow instead of actually learning a bunch about stability because supersonic rocket stability can get weird, and the math is far too complicated for me. 
+
+# Days 3-5 Manufacturing
+
+I didn't actually count how many days I spent manufacturing, so this is an estimate, which is probably less time than I actually spent manufacturing. 
+
+Before even starting the CAD, I already had machined a nosecone tip because I was bored in class, and it came out really really nice. My process for machining it on the lathe was to essentially machine it 'backwards' with the sharp end towards the chuck, allowing me to only need one setup for my nosecone tip, so everything is perfectly concentric. I used the taper attachment tool on my schools lathe in order to get a 5* taper. I tapped it M8 (why? no idea...)
+
+![image](https://github.com/user-attachments/assets/8cfc06ae-b4db-4589-bb72-f7d298e141ef)
+![image](https://github.com/user-attachments/assets/438fc658-376b-44d8-8b51-1c981e81cef7)
+
+I first manufactured the nozzle extension/aft closure, the part which holds the nozzle end of the motor in the casing through radial bolts. This was a more difficult part to manufacture because it needed good ID/depth tolerances. I hit those good tolerances though, and that's something I'm pretty proud of as I've struggled with them in the past :) 
+
+![image](https://github.com/user-attachments/assets/5508589d-2963-4026-9b7b-f4f83603a612)
+![image](https://github.com/user-attachments/assets/183afa35-66dd-4cbc-a6d9-e8c81f7fd5f2)
+
+Then I manufactured the other 3 parts... and for some reason, I didn't take pictures as I did it. (Good shop practice, or whatever). 
+- For the forward bolt ring (tube in the picture), I polished it up to 220, and then just used a parting tool. I was okay with the tolerances, but the calipers at the shop have messed up depths, so what I thought was 3.500" was actually like 3.489" :( 
+- For the forward closure, I had already drilled my only stock to the tap diameter of 1/4" NPT, so I tapped it 1/4" NPT instead. This gives me the added bonus of being able to use this closure on a static test if I want to. Silly mistake, but I rolled with it and it was okay in the end.
+- For the nozzle carrier (the part on the nozzle), I used an internal grooving tool to make the O ring groove which seats against the nozzle. I'm bad at using internal grooving tools, so I kinda struggled with it, but it ended up ok in the end. 
+
+![image](https://github.com/user-attachments/assets/03a898bd-5936-4156-af38-9981c0dea0a3)
+ 
+
+
