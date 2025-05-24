@@ -72,5 +72,24 @@ Then I manufactured the other 3 parts... and for some reason, I didn't take pict
 
 ![image](https://github.com/user-attachments/assets/03a898bd-5936-4156-af38-9981c0dea0a3)
  
+# Day 6 - Oopsie! 
 
+I needed to do the last operation to manufacture my casing - cutting the aluminum tube on a chop saw. I ended up cutting it EXACTLY 1" too short, because I burned an inch when measuring and then forgot to account for it. 
 
+However, I got to put the radial bolt hole guides on and see the whole thing assembled, which is nice:
+![image](https://github.com/user-attachments/assets/76e4d55d-2e0c-4222-934b-a3799e3f5f25)
+
+When I got home from the shop, I went home and did some further fin shape optimization to deal with the fact I had 1" less propellant. More importantly, I made the nosecone a very pretty shade of green. 
+ 
+![00A_-_Main5](https://github.com/user-attachments/assets/24583e4f-f26e-4470-a64d-dfbe6afba09e)
+
+Updated sims agreeing very closely!
+
+![image](https://github.com/user-attachments/assets/c3da2d71-c753-4d87-8c88-a3b732c6b695)
+
+# Day 7 - Finalization of the casing
+I drilled the bolt holes in the casing. I still need to tap them and drill the clearance holes, but that's not a big deal, and can probably be knocked out in an hour or so. 
+
+![image](https://github.com/user-attachments/assets/9628171f-9f25-41e3-acf3-183b33f308eb)
+
+Incredibly proud with how the casing turned out. Not bad for a quick build, and I really hope it doesn't blow up. I plan on working on the composites in the coming few weeks. 
