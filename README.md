@@ -12,5 +12,5 @@ This is my rocket, which I designed with the goal of flying past 20,000' and Mac
 | 91375A437 - Alloy Steel Cup-Point Set Screw     | Bolts for casing     | McMaster-Carr            | $15          |
 | 8870A45 - Uncoated High-Speed Steel Drill Bit   | Drill Bit for grains | McMaster-Carr            | $11          |
 | 8870A54 - Uncoated High-Speed Steel Drill Bit   | Drill Bit for grains | McMaster-Carr            | $26          |
-| 2933A33 - 1/2" Diameter Reduced-Shank Drill Bit | Drill Bit for grains | McMaster-Carr            | $42          |
-|                                              |                   | Total Price:             | $319         |
+| 54mm Nozzle, 0.455" Throat | Nozzle | RocketMotorParts         | $45       |
+|                                              |                   | Total Price:             | $323         |
