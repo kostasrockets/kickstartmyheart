@@ -93,3 +93,12 @@ I drilled the bolt holes in the casing. I still need to tap them and drill the c
 ![image](https://github.com/user-attachments/assets/9628171f-9f25-41e3-acf3-183b33f308eb)
 
 Incredibly proud with how the casing turned out. Not bad for a quick build, and I really hope it doesn't blow up. I plan on working on the composites in the coming few weeks. 
+
+# Day 8 - Optimization & Actually finishing casing
+
+I actually finished the casing today, tapping the holes, etc.
+
+I also added even more motor to the motor, made it a little less likley to blow up (made sure my nozzle exit pressure was ok) 
+
+![image](https://github.com/user-attachments/assets/70588f15-2ba4-44b9-a50b-cabdd224c5f3)
+
