@@ -1,8 +1,8 @@
 Mach 2 and 20,000' under $500
 
-![00A - Main(7)](https://github.com/user-attachments/assets/33cd6665-93cc-49d7-9689-eb2c26a381ea)
+![image](https://github.com/user-attachments/assets/21e450f0-e342-4c68-abad-834a23f65ef6)
 
-This is my rocket, which I designed with the goal of flying past 20,000' and Mach 2. It uses a custom Reliant Robin propellant rocket motor in a custom machined casing, which I have flown a similar design to before. It will have a fiberglass nosecone and carbon fiber fins. I've built nearly identical rockets with this structure before, and they've worked, which gives me the confidence to build this rocket in this way. 
+This is my rocket, which I designed with the goal of flying past 20,000' and Mach 2. It uses a custom Reliant Robin propellant rocket motor in a custom machined casing, which I have flown a similar design to before. It will have a fiberglass nosecone and carbon fiber or metal 3d printed fins, but I am currently leaning towards the metal fins option. I've built nearly identical rockets with this structure before, and they've worked, which gives me the confidence to build this rocket in this way. 
 
 The casing is identical to a design I have flown before as well, and has been tested in flight to about 750psi, and hydrostatically to 1600psi. It uses radial bolts to hold the two closures in, and the bolts are loaded in shear when the casing is pressurized. If my math is correct, which I did with a simulator and hand calculations, the casing should fail at 2000psi, at the nozzle end (the safer, and cheaper failiure mode, as it does not risk hitting the electronics if it blows up)
 
