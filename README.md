@@ -10,10 +10,10 @@ For recovery, the most important part of the entire rocket's flight (because it'
 
 | Item                                            | Use                  | Vendor/Source            | Item Price   |
 |:------------------------------------------------|:---------------------|:-------------------------|:-------------|
-| Featherweight GPS                               | GPS Tracker          | Featherweight Altimiters | $185         |
+| Featherweight GPS                               | GPS Tracker          | Featherweight Altimiters | $175         |
 | ARRIS 240 x 240 x 4MM Carbon Fiber Sheet        | Fin Plate            | Amazon                   | $40          |
 | 91375A437 - Alloy Steel Cup-Point Set Screw     | Bolts for casing     | McMaster-Carr            | $15          |
 | 8870A45 - Uncoated High-Speed Steel Drill Bit   | Drill Bit for grains | McMaster-Carr            | $11          |
 | 8870A54 - Uncoated High-Speed Steel Drill Bit   | Drill Bit for grains | McMaster-Carr            | $26          |
 | 54mm Nozzle, 0.455" Throat | Nozzle | RocketMotorParts         | $45       |
-|                                              |                   | Total Price:             | $323         |
+|                                              |                   | Total Price:             | $313         |
