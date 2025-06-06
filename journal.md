@@ -155,7 +155,13 @@ This is by far the best nosecone I have manufactured yet, so that is a pretty hu
 
 I also released the tube this day,took no pictures, but it looks good.
 
+# Day 13 - Optimization (Metal Fin Can!!)
 
+Today I explored the idea of using a metal 3d printed fin can. I've done this before with good success, and metal printed fincans are often just as straight as a well made composite fin can. I cadded one quickly, and ran some more simulations to see I gained some pretty signifigant altitude and speed. (I don't have exact numbers atm) 
+
+![06 - Metal Fin Can(2)](https://github.com/user-attachments/assets/d1c9832a-97b2-4cf4-82fb-e898b8ddeb90)
+
+I also changed the fin planform to be have more root chord, which made me more comfortable with having the tiny fillets I have on the printed can. It is still good enough for stability. Overall it makes the rocket pretty signifigantly lighter because there isnt any heavy epoxy for the fillets. The rear corner of the fin is filleted so I don't have to risk shock cord getting cut there after deployment. 
 
 
 
