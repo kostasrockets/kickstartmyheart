@@ -102,3 +102,60 @@ I also added even more motor to the motor, made it a little less likley to blow 
 
 ![image](https://github.com/user-attachments/assets/70588f15-2ba4-44b9-a50b-cabdd224c5f3)
 
+# Day 9 - Avionics Bay Work
+
+This day, I went to a friends house and he repaired my broken tracker (I previously planned to buy another, but I couldn't afford it) He fixed a broken communication trace on the side of the tracker which prevented the GPS from functioning, and replaced the antenna with a much more compact, but mildly worse wire antenna. (if you're reading this thank you x1000!)
+
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/79f933f6-9e74-4cf1-80f6-e014b3f705b5" />
+
+Afterwards, I put the avionics on the 3d printed sled. 
+
+<img width="246" alt="image" src="https://github.com/user-attachments/assets/b9355073-f057-44c4-a53a-e9beed8034a2" />
+<img width="211" alt="image" src="https://github.com/user-attachments/assets/ca47db36-3a88-49b1-8901-71eb206eaa41" />
+
+The darker green board with a buzzer is an Altus Metrum [EasyMini](https://altusmetrum.org/EasyMini/). This particular EasyMini has been through a lot... Mach 2.7, hitting the ground at 110mph, and then left in the desert for 3 months... I will test it before I fly the rocket, to make sure it can still fire charges with the battery I am using (I am using regulated 1s batteries, so I'm a little bit worried about browning out when it tries to fire the charge) 
+
+The lighter green board with a GPS antenna is a [Featherweight GPS](https://www.featherweightaltimeters.com/featherweight-gps-tracker.html). In the configuration in the pictures, It would not have worked very well due to RF interference between the GPS and LoRa antenna, which someone on an online forum pointed out (Thank you!). I moved the LoRa antenna by the side and out of the way of the GPS antenna, batteries, and the central threaded rod. I don't want to take any chances with RF...
+
+# Day 10 - Composite Layups & More Optimization
+
+I did two composite layups this day, one for the nosecone, and one for the fin can. 
+
+The nosecone layup is fairly simple. I made a mold which interfaced with the coupler part which would attach to the casing, which would hopefully lead to me having a perfect fit of the nosecone on the coupler. Good fits are very very important when you are going fast, because any slop can lead to instability, etc... 
+
+My process for making the nosecone was very simple. Like [this](https://www.youtube.com/watch?v=jRbXzujI6ho) video, I used a condom laid up over a sanded down mold, which was designed not to have any sharp edges as to risk breaking the condom. Afterwards, I put a fiberglass sleeve on the nosecone carefully, being sure to not touch the mold until the sleeve is over the mold (in order to avoid stressing the condom/messing up the weave of the fiberglass). Afterwards I wet out the sleeve with laminating epoxy, and then repeat the process for the amount of layers I plan to use. I planned to use 4 layers for this flight based on previous flights of other peoples rockets which have worked using that many sleeves, but I added another layer of sleeve to sand down for a nice surface finish. 
+
+<img width="131" alt="image" src="https://github.com/user-attachments/assets/81ef3996-6333-44a2-ac0c-94bc7552c40d" />
+
+<img width="249" alt="image" src="https://github.com/user-attachments/assets/18e9c96d-37cb-47c4-b8a4-3c59083804c7" />
+
+Afterwards, I roll wrapped a tube for the fin can. 
+
+I havent really roll wrapped tubing before, so my friend helped me. We used a mandrel made from the same tube that the casing was made from in order to lay it up. We used mylar for mold release (not really, but it serves the same process), which was taped together in a roll around the tube. Then, we cut a peice of carbon that was 14" x 18". It was 18" wide because it needed to be 3 rolls around the tube for strength (likely overkill, but that's ok)
+
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/b23d5944-3467-41b2-a5ff-e4bca013b514" />
+
+# Day 11 - Day #1 of nosecone post processing
+
+The nosecone came off the mold really ugly, as most nosecones do. I then put the nosecone onto my friends lathe in order to sand it coencentric. This was my first time using the lathe for sanding, and it was so incredibly useful. It is VERY important to note that I was wearing proper PPE while doing this. Never sand Fiberglass, Carbon Fiber, Phenolic, and many other materials often used for rocketry without wearing proper PPE, because they really like to shred your lungs if they get in there. Not fun.
+ 
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/8a2e266b-70cc-40bd-aa42-34856f9f7fed" />
+
+This was the result afterwards, very shiny, sanded 60-100-220-400-600-1000 grit sandpaper: 
+
+<img width="327" alt="image" src="https://github.com/user-attachments/assets/7305cf1e-b9c8-4ee2-89bb-7e7afc7f21f1" />
+
+# Day 12 - Day #2 of nosecone post processing
+
+I painted without primer for this nosecone because I thought it would be pretty and easy. The first coat of paint was drippy and the finish wasnt great, and I sanded it on the lathe. This turne out to be a bad idea because it sanded through the paint... oops. My process was fairly standard, being: paint, sand, repeat. I eventually did this enough to get to this result: 
+
+<img width="294" alt="image" src="https://github.com/user-attachments/assets/d9dee45a-c5ef-4f63-84ff-658905356eee" />
+
+This is by far the best nosecone I have manufactured yet, so that is a pretty huge win. I'm happy with the result and pretty confident in it being good enough. 
+
+I also released the tube this day,took no pictures, but it looks good.
+
+
+
+
+
