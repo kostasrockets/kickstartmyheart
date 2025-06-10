@@ -10,7 +10,7 @@ For recovery, the most important part of the entire rocket's flight (because it'
 
 | Item                                            | Use                  | Vendor/Source            | Item Price   |
 |:------------------------------------------------|:---------------------|:-------------------------|:-------------|
-| Featherweight GPS                               | GPS Tracker          | Featherweight Altimiters | $165         |
+| Craftcloud 3d Printed Fin Can                             | Fin Can (Very important for keeping the rocket straight)          | Craftcloud3DP | $165         |
 | 91375A437 - Alloy Steel Cup-Point Set Screw     | Bolts for casing     | McMaster-Carr            | $15          |
 | 8870A45 - Uncoated High-Speed Steel Drill Bit   | Drill Bit for grains | McMaster-Carr            | $11          |
 | 8870A54 - Uncoated High-Speed Steel Drill Bit   | Drill Bit for grains | McMaster-Carr            | $26          |
