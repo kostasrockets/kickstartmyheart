@@ -163,5 +163,9 @@ Today I explored the idea of using a metal 3d printed fin can. I've done this be
 
 I also changed the fin planform to be have more root chord, which made me more comfortable with having the tiny fillets I have on the printed can. It is still good enough for stability. Overall it makes the rocket pretty signifigantly lighter because there isnt any heavy epoxy for the fillets. The rear corner of the fin is filleted so I don't have to risk shock cord getting cut there after deployment. 
 
+# Day 14 - Ordering stuff + Leaving the country
 
+I ordered the fin can, ended up being $180 because of some small modifications. Hopefully I don't get absolutley demolished by customs, which would suck. A lot.
+
+I am also now in france and cant work on my project. Still aiming to launch Aug 1st 2025, the project is 95% done anyways.
 
