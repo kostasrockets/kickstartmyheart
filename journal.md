@@ -169,3 +169,11 @@ I ordered the fin can, ended up being $180 because of some small modifications. 
 
 I am also now in france and cant work on my project. Still aiming to launch Aug 1st 2025, the project is 95% done anyways.
 
+
+# Day 15 - "Final" Assembly
+
+I put the forward closure on for the last time, and put the fin can on the bottom of the rocket. It looks like a rocket now. 
+
+![IMG_8654](https://github.com/user-attachments/assets/0b70bf76-c2c1-4a23-aba7-06b68cf2e1d4)
+
+I also learned that the propellant that I was intending to use was not going to work out, so I'm using a smaller motor that is less efficient. Sims were updated and are telling me 20,600' and Mach 2.8.
