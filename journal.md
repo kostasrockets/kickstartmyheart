@@ -177,3 +177,12 @@ I put the forward closure on for the last time, and put the fin can on the botto
 ![IMG_8654](https://github.com/user-attachments/assets/0b70bf76-c2c1-4a23-aba7-06b68cf2e1d4)
 
 I also learned that the propellant that I was intending to use was not going to work out, so I'm using a smaller motor that is less efficient. Sims were updated and are telling me 20,600' and Mach 2.8.
+
+# Day 15-20 - Integration, Launch, and Recovery. 
+
+Spent a few days at a friends house beforehand (more having fun than actually being productive). Avionics bay broke day before launch, which scared me a lot, but I fixed it. 
+
+Launch was 95% stressful, but everything worked out after some GPS issues, and the cable cutter deployed the main early 22409' up and ~14500 feet out. Perfect flight! Melted some paint off, which is pretty cool.
+
+<img width="568" height="758" alt="image" src="https://github.com/user-attachments/assets/94d501d1-0752-47cd-ba1b-9e17d0880c26" />
+
